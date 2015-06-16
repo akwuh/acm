@@ -5,4 +5,4 @@
 + Binary heap  
 + Dynamic list  
 + Static and dynamic stack  
-+ Treap  
++ Treap
