@@ -6,3 +6,4 @@
 + Dynamic list  
 + Static and dynamic stack  
 + Treap
++ Solutions for acmp tasks
